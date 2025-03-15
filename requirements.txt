@@ -1,0 +1,10 @@
+opencv-python
+speechrecognition
+pyttsx3
+requests
+wikipedia
+deepface
+python-dotenv
+google-generativeai
+
+ 
